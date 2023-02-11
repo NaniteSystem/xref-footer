@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1360px;
+  width: 100%;
+  border: 1px solid red;
+  margin: auto;
+}
+
+.footer__container {
+  background-image: url(./footer-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 185px 296px 1051px 297px;
+}
+.footer__top {
+  text-align: center;
+}
+.footer__heading {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 61px;
+  line-height: 69px;
+  text-align: center;
+  color: #E1FFA0;
+  width: 689px;
+  margin-bottom: 18px;
+}
+.footer__text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 53px;
+}
+.footer__btn {
+  border: none;
+  background-color: transparent;
+  text-align: center;
+}
+.footer__button {
+  text-decoration: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  color: #FFFFFF;
+}/*# sourceMappingURL=main.css.map */
